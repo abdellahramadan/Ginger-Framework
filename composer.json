@@ -1,0 +1,18 @@
+{
+    "name": "abdellah/ginger-framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Abdellah Ramadan",
+            "email": "ramadanabdel24@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
